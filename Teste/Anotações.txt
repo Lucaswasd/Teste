@@ -1,8 +1,0 @@
-Tarefas:
-
-1 - Comprar lâmpada do banheiro.
-2 - Dar banho no cachorro. ok
-3 - Alugar terno.
-4 - Pagar conta no banco.
-5 - Pagar a internet.
-6 - Pagar talão de água.
